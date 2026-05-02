@@ -45,6 +45,8 @@ I'm a Systems & Computing Engineer from Colombia 🇨🇴, receiving my degree i
 
 </div>
 
+---
+
 ## 🚀 Featured Projects
 
 <table>
