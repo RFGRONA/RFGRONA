@@ -11,7 +11,7 @@
 
 ## 👋 About Me
 
-I'm a Systems & Computing Engineering student from Colombia 🇨🇴, graduating in September 2026. Over the years I've built things across a wide range of layers — from microcontroller firmware and physical server racks to distributed backend systems and AI pipelines. I wouldn't call myself an expert in everything, but I genuinely enjoy understanding how systems work end-to-end, and I find that breadth useful when solving problems that don't fit neatly into one discipline. My strongest areas are **backend architecture with .NET**, **applied AI and LLM orchestration**, and **Linux-based infrastructure and DevOps**. I'm comfortable owning a project from the hardware layer all the way to production deployment.
+I'm a Systems & Computing Engineer from Colombia 🇨🇴, receiving my degree in September 2026. Over the years I've built things across a wide range of layers — from microcontroller firmware and physical server racks to distributed backend systems and AI pipelines. I wouldn't call myself an expert in everything, but I genuinely enjoy understanding how systems work end-to-end, and I find that breadth useful when solving problems that don't fit neatly into one discipline. My strongest areas are **backend architecture with .NET**, **applied AI and LLM orchestration**, and **Linux-based infrastructure and DevOps**. I'm comfortable owning a project from the hardware layer all the way to production deployment.
 
 ## 🛠️ Tech Stack
 
