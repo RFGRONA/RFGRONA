@@ -13,40 +13,37 @@
 
 I'm a Systems & Computing Engineer from Colombia 🇨🇴, receiving my degree in September 2026. Over the years I've built things across a wide range of layers — from microcontroller firmware and physical server racks to distributed backend systems and AI pipelines. I wouldn't call myself an expert in everything, but I genuinely enjoy understanding how systems work end-to-end, and I find that breadth useful when solving problems that don't fit neatly into one discipline. My strongest areas are **backend architecture with .NET**, **applied AI and LLM orchestration**, and **Linux-based infrastructure and DevOps**. I'm comfortable owning a project from the hardware layer all the way to production deployment.
 
-## 🛠️ Tech Stack
+<div align="center">
 
-**Languages**
+## 🛠️ Tech Stack & Skills
 
+### **Languages**
 [![My Skills](https://skillicons.dev/icons?i=cs,python,cpp,java&theme=dark)](https://skillicons.dev)
 
-**Backend & Frontend**
-
+### **Backend & Systems Architecture**
 [![My Skills](https://skillicons.dev/icons?i=dotnet,react,postgres&theme=dark)](https://skillicons.dev)
 
-**AI & Data**
-
+### **AI & Data Engineering**
 [![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow&theme=dark)](https://skillicons.dev)
 
-> RAG · LLMs · CNN · LSTM/GRU · Random Forest · K-Means · Linear & Logistic Regression
+*RAG Architecture · LLMs · CNN & RNN (LSTM/GRU) · Random Forest - Focus: Secure AI Workflows & Data Sovereignty*
 
-**Infrastructure & DevOps**
-
+### **Infrastructure, DevOps & Security**
 [![My Skills](https://skillicons.dev/icons?i=linux,docker,githubactions,nginx,cloudflare&theme=dark)](https://skillicons.dev)
 
-> Proxmox · Netbird/Tailscale · SSL/TLS · Bare-metal Server Administration · SAS RAID
+*Proxmox Virtualization · Fedora & Ubuntu Server · Podman/Docker · Zero-Trust Networking (Tailscale/Netbird/Cloudflare Tunnels) · SSL/TLS Management · Security & Auth · Firewall*
 
-**IoT & Embedded**
-
+### **IoT & Embedded Systems**
 [![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark)](https://skillicons.dev)
 
-> ESP32 · PlatformIO · PCB Prototyping
+*ESP32 Firmware (PlatformIO) · PCB Design*
 
-**Tools & Workflow**
-
+### **Tools & Professional Workflow**
 [![My Skills](https://skillicons.dev/icons?i=git,github,postman,vscode,bash&theme=dark)](https://skillicons.dev)
 
-> Swagger · Bruno · Scrum (SFC) · Kanban · UML · IEEE Requirements
+*Swagger/Bruno/Postman · Scrum Fundamentals (SFC) · Kanban · IEEE Requirements*
 
+</div>
 ---
 
 ## 🚀 Featured Projects
