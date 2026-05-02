@@ -1,69 +1,114 @@
 <div align="center">
 
-<!-- Animación de Terminal usando Typing SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=gabriel%40homelab%3A~%24+whoami;Systems+Engineer+%7C+Backend+%26+AI;Building+scalable+infrastructure...;Deploying+Docker+%2B+Proxmox+nodes...;printf(%22Hello+World!%22)" alt="Typing SVG" />
+# Gabriel Martinez Roldan
 
-<p align="center">
-  <a href="https://linkedin.com/in/gabemaro" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1A1B26?style=for-the-badge&logo=linkedin&logoColor=7AA2F7&labelColor=1A1B26" alt="LinkedIn">
-  </a>
-  <a href="mailto:ingroldangabriel@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-1A1B26?style=for-the-badge&logo=gmail&logoColor=7AA2F7&labelColor=1A1B26" alt="Email">
-  </a>
-  <a href="https://hackerrank.com/gabmartinezrol" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-1A1B26?style=for-the-badge&logo=hackerrank&logoColor=7AA2F7&labelColor=1A1B26" alt="HackerRank">
-  </a>
-</p>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=620&lines=Backend+Architect+%7C+AI+Engineer;DevOps+%26+Infrastructure+Enthusiast;IoT+%26+Embedded+Systems+Builder;Systems+%26+Computing+Engineer)](https://git.io/typing-svg)
 
----
-
-### 👨‍💻 About Me
-
-- 🔭 **Currently working on:** An AI-driven IoT system for precision agriculture (`ArandanoIRT`) and scaling my self-hosted infrastructure.
-- 🌱 **Currently learning:** Advanced LLM orchestration (RAG) and optimizing deployments in distributed architectures.
-- 👯 **Looking to collaborate on:** Open-source backend projects, AI applied to real-world problems, and IoT integrations.
-- 💬 **Ask me about:** `C# (.NET)`, `Python`, `Linux server administration`, `Docker`, and `Proxmox` homelabs.
-- ⚡ **Fun fact:** I run my own bare-metal server cluster at home (Lenovo TS440 + Xeon) to host my own cloud and CI/CD pipelines!
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<div align="center">
-  
-  **Backend & Architecture** <br>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,java,postgres,sqlserver&theme=dark" alt="Backend" />
-  <br><br>
-  
-  **DevOps & Infrastructure** <br>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,docker,nginx,git,githubactions&theme=dark" alt="DevOps" />
-  <br><br>
-
-  **AI, IoT & Tools** <br>
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,postman,figma,react&theme=dark" alt="IoT and Tools" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabemaro/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ingroldangabriel@gmail.com)
 
 </div>
 
+## 👋 About Me
+
+I'm a Systems & Computing Engineering student from Colombia 🇨🇴, graduating in September 2026. Over the years I've built things across a wide range of layers — from microcontroller firmware and physical server racks to distributed backend systems and AI pipelines. I wouldn't call myself an expert in everything, but I genuinely enjoy understanding how systems work end-to-end, and I find that breadth useful when solving problems that don't fit neatly into one discipline. My strongest areas are **backend architecture with .NET**, **applied AI and LLM orchestration**, and **Linux-based infrastructure and DevOps**. I'm comfortable owning a project from the hardware layer all the way to production deployment.
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+[![My Skills](https://skillicons.dev/icons?i=cs,python,cpp,java&theme=dark)](https://skillicons.dev)
+
+**Backend & Frontend**
+
+[![My Skills](https://skillicons.dev/icons?i=dotnet,react,postgres&theme=dark)](https://skillicons.dev)
+
+**AI & Data**
+
+[![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow&theme=dark)](https://skillicons.dev)
+
+> RAG · LLMs · CNN · LSTM/GRU · Random Forest · K-Means · Linear & Logistic Regression
+
+**Infrastructure & DevOps**
+
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,githubactions,nginx,cloudflare&theme=dark)](https://skillicons.dev)
+
+> Proxmox · Netbird/Tailscale · SSL/TLS · Bare-metal Server Administration · SAS RAID
+
+**IoT & Embedded**
+
+[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark)](https://skillicons.dev)
+
+> ESP32 · PlatformIO · PCB Prototyping
+
+**Tools & Workflow**
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman,vscode,bash&theme=dark)](https://skillicons.dev)
+
+> Swagger · Bruno · Scrum (SFC) · Kanban · UML · IEEE Requirements
+
 ---
 
-### 📌 Featured Projects
+## 🚀 Featured Projects
 
-<!-- Tarjetas dinámicas de tus repositorios clave usando el tema Tokyonight -->
-<div align="center">
-  <a href="https://github.com/RFGRONA/ArandanoIRTSoftware">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RFGRONA&repo=ArandanoIRTSoftware&theme=tokyonight&hide_border=true" width="48%" alt="ArandanoIRT Software" />
-  </a>
-  <a href="https://github.com/RFGRONA/BioKudi-Backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RFGRONA&repo=BioKudi-Backend&theme=tokyonight&hide_border=true" width="48%" alt="BioKudi Backend" />
-  </a>
-</div>
-
----
-
-### 📊 System Diagnostics (GitHub Stats)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RFGRONA&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Gabriel's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RFGRONA&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Gabriel's Top Languages" width="48%" />
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌱 Blueberry Water Stress Detection (AIRT)</h3>
+      <p><em>Research Seedbed LINUDECX · International Recognition</em></p>
+      <p>
+        End-to-end IoT pipeline for precision agriculture. Low-cost thermal imaging hardware (ESP32) feeds a machine learning pipeline using <strong>Random Forest and LSTM/GRU networks</strong>, with an LLM layer orchestrated via <strong>RAG architecture</strong>. Fully deployed on a Linux server with automated CI/CD.
+      </p>
+      <p>
+          <img src="https://img.shields.io/badge/.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/PlatformIO-F6822B?style=flat-square&logo=platformio&logoColor=white"/>
+          <img src="https://img.shields.io/badge/ML%20%2F%20RAG-FF6F00?style=flat-square&logo=pytorch&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌿 BioKudi — Ecotourism Platform</h3>
+      <p><em>Full architectural evolution from prototype to distributed system</em></p>
+      <p>
+        Built and scaled a platform for discovering ecotourism destinations across three architectural generations: <strong>Java/JSP prototype → .NET 7 monolith → .NET 8 + React distributed ecosystem</strong>. Real-world experience with software scaling, relational database design, and continuous deployment in production.
+      </p>
+      <p>
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
+          <img src="https://img.shields.io/badge/C%23%20.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+          <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🖥️ Self-Hosted Homelab Infrastructure</h3>
+      <p><em>Enterprise-grade bare-metal cluster running 24/7</em></p>
+      <p>
+        Physical server cluster (Lenovo TS440, Xeon, ECC RAM, SAS RAID) managed with <strong>Proxmox</strong> for hypervisor-level virtualization and <strong>Docker/Podman</strong> for service isolation. Exposed securely via <strong>Cloudflare Tunnels</strong> with no open ports, private networking through Netbird/Tailscale, and full SSL/TLS certificate management.
+      </p>
+      <p>
+          <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Ubuntu%20Server-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
+          <img src="https://img.shields.io/badge/WireGuard-881798?style=flat-square&logo=wireguard&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔧 More coming soon...</h3>
+      <p><em>Always building something new</em></p>
+      <p>
+        Currently working on new projects combining embedded systems, AI, and cloud-native infrastructure.
+      </p>
+      <br/>
+      <p>
+        <img src="https://img.shields.io/badge/WIP-333333?style=flat-square&logo=github&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
