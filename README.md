@@ -44,7 +44,6 @@ I'm a Systems & Computing Engineer from Colombia 🇨🇴, receiving my degree i
 *Swagger/Bruno/Postman · Scrum Fundamentals (SFC) · Kanban · IEEE Requirements*
 
 </div>
----
 
 ## 🚀 Featured Projects
 
